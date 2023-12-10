@@ -2,7 +2,11 @@
 # A Center for STEAM Education and Research
 ![TBD_Github_WS_Home_Banner_1](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/d4d1079e-9eff-4795-b6f1-9f11711daead)
 
+<p>
+Technocraphy BD is a center of learning, designing and implementing next generation technologies especially in Science and Technology using modern tools which includes Programming, Robotics, IoT, Graphics and Animation . It also offers STEAM education for Kids and Youths. A student, professional, beginner or a hobbyist can get help from the resources here. 
 
+
+  </p>
 ![TBD_STEAM_Slides_Supports_2](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/3a0a8870-bb9b-4462-be3d-a53b27d4dfb6)![TBD Wall Dial 18_2](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/696e5cff-4aff-40ad-b4ae-3e46376b2686)
 
 
