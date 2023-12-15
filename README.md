@@ -1,7 +1,6 @@
 ![TBD_Logo_Name_300x300_Trans_7](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/e3dfc8dc-0be5-40ed-829f-114f0c989217)
 # A Center for STEAM Education and Research
-![TBD_Github_WS_Home_Banner_1](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/d4d1079e-9eff-4795-b6f1-9f11711daead)
-
+![TBD_CR_Wall_Sticker_SE_8x4ft_5](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/5a9fb8c8-5cfd-4cec-8868-d94c3482c0ff)
 
 ![TBD_STEAM_Slides_Supports_2](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/bb4a5ffb-dfe3-45e1-8398-86e5b715d96a)
 
