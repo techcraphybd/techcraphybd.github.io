@@ -58,6 +58,7 @@
 .carousel-item img{
   height:auto;
   width: 90%;
+  min-height: 320px;
 }
 .carousel-caption {
 padding-bottom: 160px;
