@@ -7,7 +7,7 @@
   body {
     align-items: center;
     justify-content: center;
-    min-height: 2000vh;
+    min-height: 1000vh;
     background: #f1f4fd;
   }
   
@@ -15,10 +15,9 @@
 
 
 .container_carusal {
-    max-width: 100%;
     padding: 10%;
-    background-color: #5c5c77;
-    width: 95%;
+     background-color: #5c5c77;
+    width: 100%;
   }
   
   
@@ -74,7 +73,7 @@
   }
   
   .slider-wrapper .image-list .image-item {
-    width: 325px;
+    width: 350px;
     height: 400px;
     object-fit: cover;
   }
