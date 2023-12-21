@@ -1,6 +1,6 @@
 
 .myclass{
-  padding-left: 260px;
+  padding-left: 160px;
 }
 .navigation-bar{
   display: flex;
@@ -43,8 +43,9 @@
 
 
 .slider{
-  margin-top: 150px;
-  width: 95%;
+  margin-top: 120px;
+  width: 100%;
+
   /* background-image: url('img/banner-1.jpg'); */
 }
 
@@ -55,6 +56,7 @@
   background-color: #ffbc3b;
 }
 .carousel-item img{
+  height:auto;
   width: 90%;
   min-height: 320px;
 }
@@ -72,18 +74,18 @@ padding-left: 40%;
 .carousel-caption p{
 color: white;
 width: 60%;
-margin-left: 120px;
+margin-left: 100px;
 }
 .carousel-caption .my-class3{
 width: 150px;
 padding: 10px 16px;
-margin-left: 200px;
+margin-left: 100px;
 }
 
 
 
 .section-one{
-  background: #fcf9f9;
+  background: #f9f9fc;
  /* display: flex; */
   justify-content: space-between;
 align-items:center;
