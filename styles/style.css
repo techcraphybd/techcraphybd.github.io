@@ -9,12 +9,14 @@
 .logo{
   padding-left: 20px;
   padding-top: 10px;
-  width: 25%;
-  height: 70px;
+  padding-bottom: 10px;
+  width: 28%;
+  height: auto;
+  align-items: center;
   background-color: #ffc107;
 }
 .menu{
-  padding-top: 20px;
+  padding-top: 10px;
   font-weight: normal;
   font-style: normal;
 
