@@ -15,7 +15,7 @@
 
 
 .container_carusal {
-    padding: 10%;
+    padding: 20px;
      background-color: #5c5c77;
     width: 100%;
   }
@@ -73,7 +73,7 @@
   }
   
   .slider-wrapper .image-list .image-item {
-    width: 350px;
+    width: 300px;
     height: 400px;
     object-fit: cover;
   }
