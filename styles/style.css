@@ -25,7 +25,6 @@
   padding-top: 10px;
   font-weight: normal;
   font-style: normal;
-
   font-family: Arial, Helvetica, sans-serif;
   width: 70%;
   height:auto;
@@ -43,7 +42,7 @@
 }
 
 .responsive {
-  width: 30%;
+  width: 40%;
   max-width: 200px;
   height: auto;
 }
@@ -51,10 +50,10 @@
 
 
 .slider{
-  margin-top: 130px;
+  margin-top: 120px;
   max-width: 1920px;
 
-  /* background-image: url('img/banner-1.jpg'); */
+  background-image: url('img/banner-1.jpg');
 }
 
 .carousel-indicators .myclass2{
@@ -64,7 +63,7 @@
   background-color: #ffbc3b;
 }
 .carousel-item img{
-  width: 40%;
+  width: 30%;
   height:auto;
   
   }
