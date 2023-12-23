@@ -34,7 +34,7 @@
 }
 .menu ul li{
   display: inline-block;
-  padding: 10px 10px;
+  padding: 8px 8px;
   color: white;
 }
 .menu ul li a{
@@ -51,7 +51,7 @@
 
 
 .slider{
-  margin-top: 100px;
+  margin-top: 120px;
   max-width: 1920px;
 
   /* background-image: url('img/banner-1.jpg'); */
