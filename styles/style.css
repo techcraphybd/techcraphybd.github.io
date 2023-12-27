@@ -42,7 +42,7 @@
 }
 
 .responsive {
-  width: 40%;
+  width: 100%;
   max-width: 200px;
   height: auto;
 }
