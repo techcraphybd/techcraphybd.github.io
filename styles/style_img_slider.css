@@ -11,14 +11,12 @@
     background: #fff4fd;
   }
   
-  
-
-
-.container_carusal {
-    padding: 15px;
-    background-color: #eaeafc;
+ .container_carusal {
+    padding-left: 100px;
+    padding-top: 30px;
+     background-color: #eaeafc;
     width: 90%;
-  }
+   }
   
   
   .slider-wrapper {
